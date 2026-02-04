@@ -71,9 +71,9 @@ console.log(!false); //true  */
 
 
 // ASSIGNMENT OPERATOR
-let number = 5;
+// let number = 5;
 
-number += 5;
+// number += 5;
 // number = number + 5;
 
-console.log(number);
+// console.log(number);

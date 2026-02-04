@@ -94,11 +94,11 @@ console.log(result);*/
 
 
 //Statically typed
-let message ='Hello, World';
-console.log(message);
+// let message ='Hello, World';
+// console.log(message);
 
-message = 5;
-console.log(message);
+// message = 5;
+// console.log(message);
 //Dynamically typed
 
 // JavaScript is dynamically typed
