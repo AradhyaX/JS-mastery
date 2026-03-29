@@ -17,7 +17,7 @@
 // console.log(variableName);
 
 
-//STRING
+//! STRING
 
 // const singleQuoates = 'Hello!';
 // const doubleQuoates = 'Hello!!';
@@ -33,7 +33,7 @@
 // console.log(backTicks);
 
 
-//NUMBERS
+//! NUMBERS
 
 /* const wholeNumber = 555;
  const decimalNumber = 0.5;
@@ -49,7 +49,7 @@ console.log(result);*/
 // (nan - not a number)
 
 
-//BOOLEANS
+//! BOOLEANS
 
 // true
 //false
@@ -74,7 +74,7 @@ console.log(result);*/
 // console.log(x);
 
 
-//OBJECTS
+//! OBJECTS
 
 // const person = {
 //   name:'john',
@@ -83,7 +83,7 @@ console.log(result);*/
     // Dot notation
 // console.log(person.name);
 
-    //Array
+    //! Array
 // const arr = [1,2,3,4]
 // console.log(arr);
 
@@ -93,7 +93,7 @@ console.log(result);*/
 
 
 
-//Statically typed
+//! Statically typed
 // let message ='Hello, World';
 // console.log(message);
 
@@ -101,7 +101,7 @@ console.log(result);*/
 // console.log(message);
 //Dynamically typed
 
-// JavaScript is dynamically typed
+//* JavaScript is dynamically typed
 
 
 
