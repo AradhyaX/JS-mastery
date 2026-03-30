@@ -55,7 +55,7 @@ const bool = test();
 console.log(bool);
 
 
-//!                      ARROW FUNCTION
+//!              ARROW FUNCTION
 
 const square = (number) => {
       return number * number;
@@ -69,6 +69,11 @@ console.log(result);
 //! PARAMETERS - used when defining a function
 //! ARGUMENTS - they are real values passed when making a func call
 
-const sayHi = (firstName) => {
-  console.log(`Hi, ${firstName}`);
+const sayHi = (name, age = 0) => {
+  console.log(`Hi, ${name}is ${age}years old.`);
 }
+
+sayHi('Aradhya', 21);
+// = 0 is default parameter
+
+//? without default value if we only pass one argument then we will get NAN or UNDEFINED so we use = 
