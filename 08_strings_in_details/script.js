@@ -1,5 +1,17 @@
-// const name = 'Johm';
-// // console.log(name.length);
+const single = 'This is a string';
+const double = 'This is a string';
+
+const backticks =`This is a string`;
+
+
+
+const sum = (a,b) => a+b;
+const total = `The sum is ${sum(2,10)}`
+console.log(total);
+
+
+// const name = 'John'; 
+// console.log(name.length);
 
 // const firstLetter = name[0];
 // const lastLetter = name[3];
@@ -9,7 +21,7 @@
 //* const lastLetter = name[name.lenght -1] hamesha koi bhi string ka last letter dega yeh
 
 
-//! UPPERCASE and lowercase letters
+      //! UPPERCASE and lowercase letters
 
 // const mixedCaseString = 'Hello! How are you?';
 
@@ -20,7 +32,7 @@
 // console.log(upperCaseString);
 
 
-// //! Searching for a Substring
+      //! Searching for a Substring
 
 // const hobbies = 'I love HTML, CSS and JavaScript.';
 
@@ -30,8 +42,7 @@
 // // last IndexOf()
 // const lastIndex = hobbies.lastIndexOf('JavaScript');
 
-
-// //* we mostly use  includes because it is boolean value it will return true or false.   hobbies.includes
+//* we mostly use  includes because it is boolean value it will return true or false.   hobbies.includes
 
 // //includes()
 // const includesJavaScript = hobbies.includes('react');
@@ -47,7 +58,7 @@
 // const exampleString = 'hotdog';
 
 
-// //? slice();
+//? slice();
 // const hot = exampleString.slice(0,3)
 // //* we should know index of which poisition of string we want to separate
 
@@ -67,34 +78,33 @@
 
 
 
-//  //! Reverse a string 
+ //! Reverse a string 
 //  const exampleString = 'test'; //tset
 
-//  //* we cant you .reverse to reverse a string fist we need to split it into array and then only we can use reverse  because 'reverse is array method' and then we need to join it.
+//* we cant you .reverse to reverse a string fist we need to split it into array and then only we can use reverse  because 'reverse is array method' and then we need to join it.
 
 //  const reversedString = exampleString.split("").reverse().join("");
 //  console.log(reversedString);
 
 
 
-//  //! Repeat a string
-//  //? repeat()
+//! Repeat a string
+//? repeat()
 
 //  const dogSays = 'woof';
 
 //  console.log(dogSays.repeat(5))
 
 
-
-//  //! Trim a string
-//  //? trim()
+//! Trim a string
+//? trim()
 
 //  const exampleString = '     Hello World!    ';
 //  console.log(exampleString.trim());
 
 
 
- //TODO STRING EXERCISE
+                    //! STRING EXERCISE
  // Guests
 const guestList = 'Our guests are: emma, jacob, isabella, ethan';
 
