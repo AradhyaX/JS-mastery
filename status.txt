@@ -1,0 +1,5 @@
+ M 05_functions/script.js
+?? .vscode/
+?? 06_tricky_concept/
+?? 08_strings_in_details/
+?? status.txt
